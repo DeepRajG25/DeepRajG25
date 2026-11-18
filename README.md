@@ -19,13 +19,13 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate | Currently pursuing MCA
+- 🎓 Currently pursuing MCA | BCA Graduate
 - 💻 Aspiring Software Engineer
-- 🌱 Currently learning C++, Data Structures & Algorithms
-- 🛠️ Interested in software development and building practical projects
+- 🌱 Currently learning C++, Data Structures Algorithms & Automation
+- 🛠️ Interested in Software Development and Building Practical Projects
 - 📚 Improving my programming and problem-solving skills
-- 🎯 Working towards becoming industry-ready
-- ⚡ Believe in learning by building and experimenting
+- 🎯 Working towards becoming Industry-Ready
+- ⚡ Believe in learning by Building and Experimenting
 
 ---
 
